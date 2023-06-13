@@ -1,0 +1,17 @@
+D:\proga\proga1\Банк сложный\bin\Debug\net6.0-windows\Банк сложный.exe
+D:\proga\proga1\Банк сложный\bin\Debug\net6.0-windows\Банк сложный.deps.json
+D:\proga\proga1\Банк сложный\bin\Debug\net6.0-windows\Банк сложный.runtimeconfig.json
+D:\proga\proga1\Банк сложный\bin\Debug\net6.0-windows\Банк сложный.dll
+D:\proga\proga1\Банк сложный\bin\Debug\net6.0-windows\Банк сложный.pdb
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.csproj.AssemblyReference.cache
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк_сложный.Form1.resources
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.csproj.GenerateResource.cache
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.GeneratedMSBuildEditorConfig.editorconfig
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.AssemblyInfoInputs.cache
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.AssemblyInfo.cs
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.csproj.CoreCompileInputs.cache
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.dll
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\refint\Банк сложный.dll
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.pdb
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\Банк сложный.genruntimeconfig.cache
+D:\proga\proga1\Банк сложный\obj\Debug\net6.0-windows\ref\Банк сложный.dll
