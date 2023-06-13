@@ -1,0 +1,17 @@
+D:\proga\proga1\CursovayaNicolaev\bin\Debug\net6.0-windows\CursovayaNicolaev.exe
+D:\proga\proga1\CursovayaNicolaev\bin\Debug\net6.0-windows\CursovayaNicolaev.deps.json
+D:\proga\proga1\CursovayaNicolaev\bin\Debug\net6.0-windows\CursovayaNicolaev.runtimeconfig.json
+D:\proga\proga1\CursovayaNicolaev\bin\Debug\net6.0-windows\CursovayaNicolaev.dll
+D:\proga\proga1\CursovayaNicolaev\bin\Debug\net6.0-windows\CursovayaNicolaev.pdb
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.csproj.AssemblyReference.cache
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.Form1.resources
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.csproj.GenerateResource.cache
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.GeneratedMSBuildEditorConfig.editorconfig
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.AssemblyInfoInputs.cache
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.AssemblyInfo.cs
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.csproj.CoreCompileInputs.cache
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.dll
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\refint\CursovayaNicolaev.dll
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.pdb
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\CursovayaNicolaev.genruntimeconfig.cache
+D:\proga\proga1\CursovayaNicolaev\obj\Debug\net6.0-windows\ref\CursovayaNicolaev.dll
