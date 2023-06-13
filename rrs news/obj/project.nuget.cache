@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuD28Og1Y124Tb6PBq4AX69YMD5NQjLA9WBgVl4zk49lcN8A7/0nKTa7vG7iz4K5W8uzL8IcKajXiR9pBloTrw==",
+  "success": true,
+  "projectFilePath": "D:\\proga\\proga1\\7-8 laba\\7-8 laba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eeeee\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\eeeee\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
