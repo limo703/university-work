@@ -1,0 +1,17 @@
+D:\proga\proga1\CurosovayaV@\bin\Debug\net6.0-windows\CurosovayaV@.exe
+D:\proga\proga1\CurosovayaV@\bin\Debug\net6.0-windows\CurosovayaV@.deps.json
+D:\proga\proga1\CurosovayaV@\bin\Debug\net6.0-windows\CurosovayaV@.runtimeconfig.json
+D:\proga\proga1\CurosovayaV@\bin\Debug\net6.0-windows\CurosovayaV@.dll
+D:\proga\proga1\CurosovayaV@\bin\Debug\net6.0-windows\CurosovayaV@.pdb
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.csproj.AssemblyReference.cache
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV_.Form1.resources
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.csproj.GenerateResource.cache
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.GeneratedMSBuildEditorConfig.editorconfig
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.AssemblyInfoInputs.cache
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.AssemblyInfo.cs
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.csproj.CoreCompileInputs.cache
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.dll
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\refint\CurosovayaV@.dll
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.pdb
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\CurosovayaV@.genruntimeconfig.cache
+D:\proga\proga1\CurosovayaV@\obj\Debug\net6.0-windows\ref\CurosovayaV@.dll
